@@ -31,3 +31,9 @@ Swagger UI available at: http://localhost:8080/swagger-ui.html
 Swagger screenshot
 Postman request/response for license upload
 PDF invoice example
+
+# Future Features
+Redis caching
+Email notifications on cancel
+Payment gateway integration
+Multi-language support
