@@ -26,8 +26,7 @@ docker-compose up -d
 # API Documentation
 Swagger UI available at: http://localhost:8080/swagger-ui.html
 
-# Sample Screenshots
-📸 Add:
+# Sample Screenshots 📸
 Swagger screenshot
 Postman request/response for license upload
 PDF invoice example
